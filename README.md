@@ -24,6 +24,3 @@ This project is a Python-based data analysis and visualization tool focused on t
 - APIs or CSV data sources (e.g., Johns Hopkins CSSE, Our World in Data)
 
 ---
-git clone https://github.com/your-username/covid19-analytics.git
-cd covid19-analytics
-pip install -r requirements.txt
